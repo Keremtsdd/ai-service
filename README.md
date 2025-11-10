@@ -14,7 +14,7 @@
 
 - 🔹Backend'in beklediği string değerini girmek.
 
-# HUGGİNG FACE URL'si
+## HUGGİNG FACE URL'si
 
 - 🔹 https://keremtizi-chatmobile.hf.space/gradio_api/call/predict => Giden İstek
 - 🔹 https://keremtizi-chatmobile.hf.space/gradio_api/call/predict/{postResult.event_id} => DÖnen İstek
